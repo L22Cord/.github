@@ -13,3 +13,21 @@
 |<a href = "https://github.com/Lucas-Choi-17"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|<a href = "https://github.com/Silver-Eun"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>|
 
 </div>
+
+## 1. 프로젝트 설명
+
+## 2. 개발 기간
+- 2024.12.16 ~ 진행중
+
+
+## 3. 인프라
+- **Front** : REACT, JS, CSS
+- **Back-end** : JAVA, Spring-Boot
+- **Security** : Json Web Token
+- **Service Server** : Private Mac Server
+- **Database Server** : Private Mac Server
+- **GitHub Actions**
+- **Docker Compose**
+
+
+## 4. 서비스 아키텍처
