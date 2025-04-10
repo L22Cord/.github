@@ -61,3 +61,4 @@
 <br/>
 
 # 4. 서버 아키텍처
+![server_arch](https://github.com/user-attachments/assets/a6167ced-cd9e-484b-90df-4bc7f5998bad)
