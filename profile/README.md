@@ -49,7 +49,7 @@
 
 ## 2. APIs / Libs
 ### _ Verification Mail
-- Gmail stmp
+- Gmail smtp
 
 ### _ L22cordTEAM Builds
 - JwtLibrary : JWT 토큰 인증을 위한 통일화된 유틸리티(토큰 생성 및 데이터 추출)
