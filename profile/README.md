@@ -36,10 +36,9 @@
 # 3. 개발 환경
 ## 1. 인프라
 - **Front** : REACT, JavaScript, CSS
-- **Back-end** : JAVA, Spring-Boot, Spring Data JPA, MySQL
+- **Back-end** : JAVA, Spring-Boot, Spring Data JPA, MySQL, Redis
 - **Security** : Spring Security, JWT(Json Web Token)
-- **Service Server** : Private Mac Server
-- **Database Server** : Private Mac Server
+- **Service & Database Server** : Private Mac Server
 - **Object Storage** : MinIO
 - **Docker**
 - **GitHub Actions**
@@ -61,4 +60,4 @@
 <br/>
 
 # 4. 서버 아키텍처
-![server_arch](https://github.com/user-attachments/assets/a6167ced-cd9e-484b-90df-4bc7f5998bad)
+![server_arch_2](https://github.com/user-attachments/assets/4ee9d6be-b39b-40f0-993a-1fd65540d2ad)
