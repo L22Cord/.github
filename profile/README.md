@@ -60,4 +60,6 @@
 <br/>
 
 # 4. 서버 아키텍처
-![server_arch_2](https://github.com/user-attachments/assets/4ee9d6be-b39b-40f0-993a-1fd65540d2ad)
+![server](https://github.com/user-attachments/assets/1a097e63-e897-4faf-b18f-4dac77e033e9)
+
+
